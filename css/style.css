@@ -3,4 +3,8 @@ header{background-image: url(../img/GitHub.png);
        height: 400px;}
 
 #teams img{width: 500px;
-           height: 500px;}       
+           height: 500px;} 
+           
+.cs{margin-top: 40px;
+    width: 60%;}           
+
