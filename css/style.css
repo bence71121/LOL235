@@ -2,6 +2,8 @@ header{background-image: url(../img/GitHub.png);
        background-size: cover;
        height: 400px;}
 
+#tnav{display: none;}       
+
 #teams img{width: 500px;
            height: 500px;} 
            
@@ -15,4 +17,12 @@ header{background-image: url(../img/GitHub.png);
 #team ul{list-style-type: none;
          font-size: 1.2rem;}
  
-#team li{margin-bottom: 5px;}         
+#team li{margin-bottom: 5px;}     
+
+article{margin-top: 50px;
+        padding: 10px;}
+
+#two{box-shadow: 10px 10px 100px rgb(81, 81, 184);
+     border-radius: 20px 20px 20px 20px;}
+     
+#tow h3{ font-size: 1.5rem;}     
